@@ -1,7 +1,11 @@
 from googleapiclient.discovery import build
 import pandas as pd 
 # Set your API key
+<<<<<<< HEAD
 #api_key = "AIzaSyCwjeIC7jXp9DTj021DsvF0H_k9QjEZ294"
+=======
+api_key = "***"
+>>>>>>> 1c6e4917a400c10bc246d8d5252caded634543db
 
 # Create a YouTube API client
 youtube = build('youtube', 'v3', developerKey=api_key)
