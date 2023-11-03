@@ -3,7 +3,7 @@ import pandas as pd
 import json 
 
 
-api_key = "AIzaSyCAn1FLhH4yT0E1erGpqeDl6db4LjiWHhA"
+api_key = "*****"
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 # Define your search query
